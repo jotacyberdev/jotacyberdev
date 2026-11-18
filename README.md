@@ -89,9 +89,9 @@ I aim to build a career in **IT, focusing on cybersecurity**, developing my tech
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaopedro120107-lgtm/joaopedro120107-lgtm/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaopedro120107-lgtm/joaopedro120107-lgtm/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/joaopedro120107-lgtm/joaopedro120107-lgtm/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jotacyberdev/jotacyberdev/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jotacyberdev/jotacyberdev/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jotacyberdev/jotacyberdev/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -102,6 +102,6 @@ I aim to build a career in **IT, focusing on cybersecurity**, developing my tech
 
 💜 Always learning, always evolving.
 
-<img src="https://komarev.com/ghpvc/?username=joaopedro120107-lgtm&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=jotacyberdev&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
